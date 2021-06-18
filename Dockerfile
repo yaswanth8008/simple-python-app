@@ -1,5 +1,6 @@
 # our base image
-FROM alpine:3.14
+FROM mcr.microsoft.com/windows/servercore:ltsc2019
+
 
 
 # Install python and pip
