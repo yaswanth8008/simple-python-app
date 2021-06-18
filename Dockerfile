@@ -1,5 +1,5 @@
 # our base image
-FROM alpine:3.14
+FROM alpine:3.12
 
 
 
